@@ -100,4 +100,9 @@ python voice_of_the_doctor.py
 ```sh
 python gradio_app.py
 ```
+## Contributing
 
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Contact
+For any queries, reach out at rcrathod13@gmail.com or open an issue on GitHub!
